@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lNIKE
+- 👋 Hi, I’m @NIK
 - 👀 I’m interested in making games
 - 🌱 I’m currently learning assembly and python
 - 💞️ I’m looking to collaborate on game development
