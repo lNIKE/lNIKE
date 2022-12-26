@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NIK
-- 👀 I’m interested in making games
+- 👋 Hi, I’m @nik
+- 👀 I’m interested in learning programming
 - 🌱 I’m currently learning assembly and python
-- 💞️ I’m looking to collaborate on game development
+- 💞️ I’m looking to collaborate on programming development especialling in game development
 - 📫 How to reach me ? you can reach me through my email. 
 
 <!---
